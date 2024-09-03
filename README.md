@@ -1,5 +1,5 @@
 # Similar Template Document Matching and Fraud Detection
- An automated system for a health insurance company to streamline document processing,  including template matching and fraud detection, resulting in reduction of processing time. 
+ An automated system for a health insurance company to streamline document processing, including template matching and fraud detection, resulting in reduction of processing time. 
 
 -->Project Setup
 This project uses several Python libraries for image processing, OCR, and GUI development. Below are the libraries used and a step-by-step guide on how to install them.
