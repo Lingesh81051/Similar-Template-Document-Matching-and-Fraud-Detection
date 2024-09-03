@@ -1,0 +1,11 @@
+--- In testing.py change the path in 25th line (u can see the asset folder in code inside that frame0 folder is present
+right click on it and copy the path )
+
+--- install the pytesseract which i have sent in link
+ 
+
+--- pip install -r requirements.txt  
+run this code in terminal
+
+--- run testing.py
+
